@@ -1,0 +1,13 @@
+{
+  "name": "react-navigation-types-bug",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^7.1.17"
+  }
+}
